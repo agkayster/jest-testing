@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the pizza data is correct 1`] = `
+Array [
+  Object {
+    "desc": "Very sweet and interesting",
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+    "name": "Chicago Pizza",
+    "price": 10,
+  },
+  Object {
+    "desc": "boring and dry",
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=962&q=80",
+    "name": "Neopolitan Pizza",
+    "price": 5,
+  },
+  Object {
+    "desc": "Crispy and delicious",
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=856&q=80",
+    "name": "New york Pizza",
+    "price": 7.5,
+  },
+  Object {
+    "desc": "Very unique and thoughtful taste",
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+    "name": "Obalende Pizza",
+    "price": 3.5,
+  },
+]
+`;
+
+exports[`the pizza data is correct 2`] = `
+Array [
+  Object {
+    "desc": "Very sweet and interesting",
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+    "name": "Chicago Pizza",
+    "price": 10,
+  },
+  Object {
+    "desc": "boring and dry",
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=962&q=80",
+    "name": "Neopolitan Pizza",
+    "price": 5,
+  },
+  Object {
+    "desc": "Crispy and delicious",
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=856&q=80",
+    "name": "New york Pizza",
+    "price": 7.5,
+  },
+  Object {
+    "desc": "Very unique and thoughtful taste",
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+    "name": "Obalende Pizza",
+    "price": 3.5,
+  },
+]
+`;

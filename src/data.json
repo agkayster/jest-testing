@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"name": "Chicago Pizza",
+		"image": "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+		"desc": "Very sweet and interesting",
+		"price": 10
+	},
+	{
+		"id": 2,
+		"name": "Neopolitan Pizza",
+		"image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=962&q=80",
+		"desc": "boring and dry",
+		"price": 5
+	},
+	{
+		"id": 3,
+		"name": "New york Pizza",
+		"image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=856&q=80",
+		"desc": "Crispy and delicious",
+		"price": 7.5
+	},
+	{
+		"id": 4,
+		"name": "Obalende Pizza",
+		"image": "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+		"desc": "Very unique and thoughtful taste",
+		"price": 3.5
+	}
+]
